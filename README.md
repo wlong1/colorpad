@@ -1,4 +1,4 @@
-# Sketchpad
+# Colorpad
 ![](Capture.png)
 
 https://wlong1.github.io/sketchpad/
