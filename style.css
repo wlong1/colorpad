@@ -4,24 +4,25 @@ body {
 }
 
 h1 {
-    margin: 20px;
-    font-size: 40px;
+    margin: 20px 0px 0px 0px;
+    font-size: 60px;
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 250;
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .btns {
     padding: 4px;
-    width: 100px;
+    width: 70px;
     font-size: 15px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .top {
     display: flex;
     justify-content: center;
     gap: 20px;
-    margin: 20px;
+    margin: 5px 20px 20px;
     color: white;
 }
 
@@ -33,6 +34,7 @@ h1 {
     border-bottom: 1px solid #000000;
     max-width: 960px;
     margin: 10px auto;
+    justify-content: center;
 }
 
 .gridElement {
